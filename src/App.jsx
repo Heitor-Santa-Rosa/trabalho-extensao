@@ -149,11 +149,12 @@ function Footer() {
           <p>Tel: (47) 99659-5839</p>
         </div>
         <a
-          href="https://wa.me/5500000000000"
-          className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded mt-4 md:mt-0"
-        >
-          WhatsApp
-        </a>
+          href="https://wa.me/5547996595839?text=Olá,%20quero%20fazer%20um%20pedido!"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded mt-4 md:mt-0">
+          WhatsApp
+        </a>
       </div>
     </footer>
   );
